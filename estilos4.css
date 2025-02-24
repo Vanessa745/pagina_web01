@@ -18,6 +18,9 @@ body {
     color: white;
     grid-column: 1/4;
 }
+h1 {
+    text-align: center;
+}
 ul {
     display: flex;
     justify-content: space-between;
